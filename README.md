@@ -17,7 +17,7 @@ For example, if given the following command and input
 students.csv
 courses.csv
 tests.csv
-marks.csv ```
+marks.csv```
 
 we would get
 
