@@ -56,7 +56,7 @@ Total Average:      72.03%
         Final Grade:      51.80%
 
         Course: Math, Teacher:  Mrs. C
-        Final Grade:      74.20%
+        Final Grade:      74.20%`
 
 
 
