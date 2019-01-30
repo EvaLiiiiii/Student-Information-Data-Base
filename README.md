@@ -1,4 +1,4 @@
-# Student-Information-Data-Base
+# Student-Information-Gathering
 The program STUDENT is consist of four major parts:
 a Student class, 
 a Courses class,
@@ -21,7 +21,7 @@ marks.csv *
 
 we would get
 
-`Student Id: 1, name: A
+```Student Id: 1, name: A
 Total Average:      72.03%
 
         Course: Biology, Teacher: Mr. D
@@ -56,7 +56,7 @@ Total Average:      72.03%
         Final Grade:      51.80%
 
         Course: Math, Teacher:  Mrs. C
-        Final Grade:      74.20%`
+        Final Grade:      74.20%```
 
 
 
