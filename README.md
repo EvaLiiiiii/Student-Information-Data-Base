@@ -13,11 +13,11 @@ The order of the input must follow the above instructions,
 
 For example, if given the following command and input
 
-*./STUDENT
+```./STUDENT
 students.csv
 courses.csv
 tests.csv
-marks.csv *
+marks.csv ```
 
 we would get
 
