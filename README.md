@@ -12,26 +12,25 @@ a csv file with the the test IDs that each students took and their grades,
 The order of the input must follow the above instructions,
 
 For example, if given the following command and input
-
-```./STUDENT
-students.csv
-courses.csv
-tests.csv
-marks.csv```
+> ./STUDENT
+> students.csv
+> courses.csv
+> tests.csv
+> marks.csv
 
 we would get
+```
+Student Id: 1, name: A
+Total Average:      72.03% 
 
-```Student Id: 1, name: A
-Total Average:      72.03%
+      Course: Biology, Teacher: Mr. D *
+      Final Grade:      90.10%*
 
-        Course: Biology, Teacher: Mr. D
-        Final Grade:      90.10%
-
-        Course: History, Teacher:  Mrs. P
-        Final Grade:      51.80%
-
-        Course: Math, Teacher:  Mrs. C
-        Final Grade:      74.20%
+      Course: History, Teacher:  Mrs. P*
+      Final Grade:      51.80%
+      
+      Course: Math, Teacher:  Mrs. C*
+      Final Grade:      74.20%*
 
 
 
@@ -56,7 +55,7 @@ Total Average:      72.03%
         Final Grade:      51.80%
 
         Course: Math, Teacher:  Mrs. C
-        Final Grade:      74.20%```
+        Final Grade:      74.20%*
 
 
 
