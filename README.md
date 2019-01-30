@@ -11,15 +11,17 @@ a csv file with the tests'IDs, their corresponding courses and weights,
 a csv file with the the test IDs that each students took and their grades,
 The order of the input must follow the above instructions,
 
-For example,
-./STUDENT
+For example, if given the following command and input
+
+*./STUDENT
 students.csv
 courses.csv
 tests.csv
-marks.csv 
-would give us
+marks.csv *
 
-Student Id: 1, name: A
+we would get
+
+`Student Id: 1, name: A
 Total Average:      72.03%
 
         Course: Biology, Teacher: Mr. D
